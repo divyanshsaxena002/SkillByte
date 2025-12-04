@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SkillByte - Micro-Learning Reels",
+  "description": "A bite-sized learning platform combining the addictive UI of Reels with the structure of Udemy. Features AI summaries, quizzes, and micro-course progress tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
